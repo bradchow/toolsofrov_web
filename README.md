@@ -15,7 +15,7 @@
 
 ## 作者
 
-本項目由 Brad Chou 開發
+本項目由 [Brad Chou](https://github.com/bradchow) 開發
 
 ## 授權
 
